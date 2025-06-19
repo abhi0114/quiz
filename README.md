@@ -1,4 +1,4 @@
-# # CodTech Interactive Quiz App
+# # CodTech Interactive Quiz Web
 
 An internship project to demonstrate a quiz application built using JavaScript, HTML, and CSS.
 
